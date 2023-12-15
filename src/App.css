@@ -1,0 +1,27 @@
+.toggle-slide {
+  border: 1px solid rgb(178, 202, 223);
+  height: 30px;
+  width: 60px;
+  border-radius: 50px;
+  position: relative;
+  transition: all 200ms;
+}
+
+/* .switch {
+  height: 30px;
+  width: 30px;
+  line-height: 20px;
+  text-align: center;
+  background-color: rgb(255, 255, 255);
+  border-radius: 999px;
+  position: absolute;
+  top: 4px;
+  left: 2px;
+  transition: ease-in 200ms;
+} */
+
+.slide {
+  transition: ease-in 200ms;
+  position: absolute;
+  left: 60%;
+}
